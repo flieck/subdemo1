@@ -81,7 +81,7 @@ namespace demo1
                 Console.WriteLine(l);
             } while (l < 10);
             Console.WriteLine(sum2);
-
+            Console.ReadLine();
         }
     }
 }
